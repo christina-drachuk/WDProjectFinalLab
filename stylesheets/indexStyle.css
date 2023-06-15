@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(161, 224, 242);
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    margin: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+#userInput, #name, #button {
+    background-color:rgb(187, 228, 239);
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
